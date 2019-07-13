@@ -10,7 +10,7 @@ Libraries required:
    1)Opencv
    2)Numpy==1.16.0
    3)sqlite3
-   4)tensorflow
+   4)Tensorflow
    5)Keras
    6)Torch
    
