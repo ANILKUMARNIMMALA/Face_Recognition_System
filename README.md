@@ -17,7 +17,9 @@ Libraries required:
  Installation of CUDA:
       1)Nvidia Driver version -418.67
       2)Cuda version : 10.1
-      Installation:https://towardsdatascience.com/tensorflow-gpu-installation-made-easy-use-conda-instead-of-pip-52e5249374bc
+      3)Installation:https://towardsdatascience.com/tensorflow-gpu-installation-made-easy-use-conda-instead-of-pip-52e5249374bc
+      
+      
       
       
  
